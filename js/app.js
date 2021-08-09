@@ -11,7 +11,7 @@ googling it proves difficult occasionally so this will be a more solid reference
 */
 
 
-/*TODO: Use a master array to help with looping...or create adhoc array to hold objects 
+/*TODO: Use a master array to help with looping...or create adhoc array to hold objects
 
         Implement internal storage system-Objects in the data.js file
           components
@@ -21,6 +21,7 @@ googling it proves difficult occasionally so this will be a more solid reference
             background color/image
             order/date/time of creation
             buttons
+            type-family of related css attributes such as font or color or animation
 
         Create functions that pull from aforementioned Objects to generate DOM elements
           generic inputs
